@@ -1,4 +1,4 @@
-[![github stats](https://github-readme-stats.vercel.app/api?username=nelero)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=nelero)](https://github.com/nelero)
 
 *** Blog list
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
