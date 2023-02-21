@@ -1,6 +1,6 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=nelero)](https://github.com/nelero)
 
-*** Blog list
+<!-- *** Blog list -->
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 <!--
