@@ -1,3 +1,6 @@
+- 🔭 I’m currently working on e-commerce projects based on Prestashop (1.7 and 8) and Magento (1.x and 2.x), and WordPress (plugins)
+- 🌱 I’m currently learning React and Vue
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=nelero)](https://github.com/nelero)
 
 <!-- *** Blog list -->
